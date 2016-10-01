@@ -3,7 +3,6 @@ __precompile__()
 module RData
 
 using Compat, DataFrames, GZip, FileIO
-import DataArrays: data
 import DataFrames: identifier
 import Compat: UTF8String, unsafe_string
 import FileIO: load
