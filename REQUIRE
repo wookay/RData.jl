@@ -1,5 +1,5 @@
 julia 0.5
-DataFrames 0.9
+DataFrames 0.8+
 FileIO 0.1.2
 GZip 0.2
 Compat 0.8
